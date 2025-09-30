@@ -10,8 +10,8 @@ Input word outputs same word from trained word list
 ## main2.py
 Input word outputs list of words from trained associations
 === Retrieval results ===
-cat    -> [('cat', 30), ('meow', 3), ('dog', 0), ('talk', 0)]
-dog    -> [('dog', 40), ('bark', 10), ('walk', 6), ('cat', 0)]
-tree   -> [('tree', 40), ('leaf', 9), ('talk', 3), ('walk', 2)]
-sky    -> [('sky', 10), ('blue', 5), ('clouds', 5), ('talk', 1)]
-talk   -> [('talk', 50), ('blue', 5), ('clouds', 5), ('walk', 4)]
+- cat    -> [('cat', 30), ('meow', 3), ('dog', 0), ('talk', 0)]
+- dog    -> [('dog', 40), ('bark', 10), ('walk', 6), ('cat', 0)]
+- tree   -> [('tree', 40), ('leaf', 9), ('talk', 3), ('walk', 2)]
+- sky    -> [('sky', 10), ('blue', 5), ('clouds', 5), ('talk', 1)]
+- talk   -> [('talk', 50), ('blue', 5), ('clouds', 5), ('walk', 4)]
